@@ -1,0 +1,25 @@
+{
+  "name": "@anthonyharold/template",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "tailwindcss"
+  ],
+  "description": "The base Typescript and Tailwindcss template for Create React App.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/typedarray/cra-template.git"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "anthonyharold67",
+  "license": "ISC",
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
