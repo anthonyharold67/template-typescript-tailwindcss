@@ -11,7 +11,7 @@
   "description": "The base Typescript and Tailwindcss template for Create React App.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/typedarray/cra-template.git"
+    "url": "https://github.com/anthonyharold67/template-typescript-tailwindcss"
   },
   "engines": {
     "node": ">=18"
