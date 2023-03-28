@@ -2,7 +2,7 @@
 
 This is the official TypeScript and Tailwindcss template for [Create React App](https://github.com/facebook/create-react-app).
 
-To use this template, add `--template @anthonyharold/template` when creating a new app.
+To use this template, add `--template @anthonyharold` when creating a new app.
 
 For example:
 
