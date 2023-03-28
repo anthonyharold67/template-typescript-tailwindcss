@@ -7,10 +7,10 @@ To use this template, add `--template @anthonyharold/template` when creating a n
 For example:
 
 ```sh
-npx create-react-app my-app --template @anthonyharold/template
+npx create-react-app my-app --template @anthonyharold
 
 # or
 
-yarn create react-app my-app --template @anthonyharold/template
+yarn create react-app my-app --template @anthonyharold
 ```
 
